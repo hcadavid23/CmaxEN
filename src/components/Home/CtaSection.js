@@ -14,7 +14,7 @@ class Cta extends Component {
                                 <img src="assets/img/icon/cta-icon.png" className="img-fluid" alt="cta-icon"/>
                             </div>
                             <div className="cta-number-text fix">
-                                
+
                                 <h3><a href="#">Consúltanos</a></h3>
                             </div>
                         </div>
