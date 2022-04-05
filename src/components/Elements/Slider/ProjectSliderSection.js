@@ -51,133 +51,61 @@ class ProjectSlider extends Component {
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-1.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-2.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-3.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-4.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-4xx.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-4xxx.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-1.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-2.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
                             <img src="assets/img/project/project-img-3.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span></span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Ver más</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
+                            
                         </div>
                     </SwiperSlide>
                 </Swiper>

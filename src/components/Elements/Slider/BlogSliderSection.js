@@ -18,8 +18,8 @@ class BlogSlider extends Component {
                             <div className='col-xl-4'>
                                 <div className="blog-text pt-0" data-aos="zoom-in">
                                     <div className="section-title-wrapper pr-25 mb-50">
-                                        
-                                        <h2 className="section-title mb-35">Nuestras Marcas</h2>
+
+                                        <h2 className="section-title mb-35">Our Brands</h2>
 
                                     </div>
                                     <div className="kblog-arrow">

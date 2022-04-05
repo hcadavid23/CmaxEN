@@ -52,20 +52,20 @@ const Header = () => {
                               <div className="main-menu d-xl-block d-none">
                                  <nav id="mobile-menu">
                                        <ul>
-                                          <li className="menu-item-has-children"><Link href="/"><a>Inicio</a></Link>
+                                          <li className="menu-item-has-children"><Link href="/"><a>Home</a></Link>
 
                                           </li>
-                                          <li><Link href="/about"><a>Nosotros</a></Link></li>
-                                          <li className="menu-item-has-children"><Link href="/service"><a>Productos y Servicios</a></Link>
+                                          <li><Link href="/about"><a>About Us</a></Link></li>
+                                          <li className="menu-item-has-children"><Link href="/service"><a>Products & Services</a></Link>
                                              <ul className="sub-menu">
-                                                   <li><Link href="/service"><a>Productos</a></Link></li>
-                                                   <li><Link href="/service-details"><a>Servicios</a></Link></li>
+                                                   <li><Link href="/service"><a>Products</a></Link></li>
+                                                   <li><Link href="/service-details"><a>Services</a></Link></li>
                                              </ul>
                                           </li>
                                           <li className="menu-item-has-children"><Link href="/project"><a>Multimedia</a></Link>
-                                             
+
                                           </li>
-                                          <li className="menu-item-has-children"><Link href="/contact"><a>Contáctanos</a></Link>
+                                          <li className="menu-item-has-children"><Link href="/contact"><a>Contact</a></Link>
 
                                           </li>
 
@@ -89,7 +89,7 @@ const Header = () => {
                                        <a className="search-btn nav-search search-trigger" href="#!" onClick={() => {setSearchOpen(!searchOpen)}}><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
                                  </div>
                                  <div className="header-btn">
-                                       <Link href="/about"><a className="theme-btn theme-btn-small">English</a></Link>
+                                       <Link href="/about"><a className="theme-btn theme-btn-small">Spanish</a></Link>
                                  </div>
                               </div>
                            </div>

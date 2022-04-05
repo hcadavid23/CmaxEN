@@ -27,61 +27,61 @@ class About extends Component {
                         <div className="col-lg-6">
                             <div className="kabout mb-50" data-aos="zoom-out-down" data-swiper-autoplay="10000">
                                 <div className="section-title-wrapper mb-45">
-                                    <h2 className="section-title mb-35">Simulaciones en Realidad Virtual</h2>
+                                    <h2 className="section-title mb-35">Virtual Reality Simulations</h2>
                                 </div>
                                 <div className="row">
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Visualización 3D</h4>
+                                            <h4 className="kabout-service-title">3D Rendering</h4>
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Realidad virtual</h4>
+                                            <h4 className="kabout-service-title">Virtual Reality</h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row">
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Simulaciones de alta calidad</h4>
+                                            <h4 className="kabout-service-title">High-quality simulations</h4>
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Innovación en servicios</h4>
+                                            <h4 className="kabout-service-title">Service innovation</h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="section-title-wrapper mb-45">
-                                    <h2 className="section-title mb-35">Monoboyas</h2>
+                                    <h2 className="section-title mb-35">Single Point Moorings</h2>
                                 </div>
                                 <div className="row">
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Sistema de carga y descarga de productos</h4>
+                                            <h4 className="kabout-service-title">Product’s loading and unloading systems</h4>
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Monoboyas tipo torreta</h4>
+                                            <h4 className="kabout-service-title">Turret type monobuoys</h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row">
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Diseño, fabricación e instalación personalizados</h4>
+                                            <h4 className="kabout-service-title">Customized design, manufacturing and installation</h4>
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="kabout-service mb-30">
-                                            <h4 className="kabout-service-title">Alta confiabilidad en transferencia</h4>
+                                            <h4 className="kabout-service-title">High transfer reliability</h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="kabout-btn">
-                                    <Link href="/service"><a className="theme-btn border-btn">Conoce más</a></Link>
+                                    <Link href="/service"><a className="theme-btn border-btn">Learn more</a></Link>
                                 </div>
                             </div>
                         </div>

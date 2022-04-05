@@ -15,14 +15,14 @@ class Cta extends Component {
                             </div>
                             <div className="cta-number-text fix">
 
-                                <h3><a href="#">Consúltanos</a></h3>
+                                <h3><a href="#">Contact us</a></h3>
                             </div>
                         </div>
                         <div className="cta-description">
-                            <p>Contamos con un grupo multidisciplinario de profesionales para atenderle.</p>
+                            <p>We have a multidisciplinary group of professionals to assist you.</p>
                         </div>
                         <div className="cta-btn text-lg-end text-start">
-                            <Link href="/service"><a className="theme-btn black-btn">Click Aquí</a></Link>
+                            <Link href="/service"><a className="theme-btn black-btn">Click Here</a></Link>
                         </div>
                     </div>
                 </div>

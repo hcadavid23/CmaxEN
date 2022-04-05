@@ -50,13 +50,13 @@ class HomeSlider extends Component {
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <div className="kslider z-index">
-                                                <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">S.T.C.C. ™ <br/>(Sistema Termoquímico Combinado y Controlado ™)</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Estimulación matricial de pozos y yacimientos</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Remoción de daños en el yacimiento</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Mejora de la movilidad de los fluidos del pozo</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Reducción de tiempo y costos de operación</h2>
+                                                <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">S.T.C.C. ™ <br/>(Thermochemical Combined and Controlled System ™)</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Wells and reservoirs matrix stimulation</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Reservoir damage removal</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Fluids mobility improvement in wells</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Reduction in operation time and costs</h2>
                                                 <div className="kslider--btn" data-animation="fadeInUp" data-delay="0.7s">
-                                                    <Link href="/service-details"><a className="theme-btn">Conoce más</a></Link>
+                                                    <Link href="/service-details"><a className="theme-btn">more</a></Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -74,11 +74,11 @@ class HomeSlider extends Component {
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <div className="kslider z-index">
-                                                <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">Petróleo y Gas</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">IPC de terminales marítimos</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Desarrollo de tecnologías</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Planificación e inspección de terminales</h2>
-                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Tendido de líneas terrestres y submarinas</h2>
+                                                <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">Oil and Gas</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">EPC of maritime terminals</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Technology development</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Oil Terminals planning and inspection</h2>
+                                                <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Onshore and subsea pipe laying</h2>
 
                                             </div>
                                         </div>
@@ -96,11 +96,11 @@ class HomeSlider extends Component {
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <div className="kslider z-index">
-                                            <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">Brazos de Carga Marinos</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Diseño, fabricación e instalación</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Supervisión e inspecciones periódicas</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Mantenimiento y reparaciones</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Adiestramiento a personal de mantenimiento y operaciones</h2>
+                                            <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">Marine Loading Arms</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Design, manufacturing and installation</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Periodic supervision and inspection</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Maintenance and repair</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Training for maintenance and operations personnel</h2>
 
                                             </div>
                                         </div>
@@ -117,12 +117,12 @@ class HomeSlider extends Component {
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <div className="kslider z-index">
-                                            <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">Sistema de Amarre Multiboyas</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Diseño, fabricación y supervisión de instalación</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Análisis de amarre detallado</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Simulación numérica de modelos</h2>
-                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Certificación internacional</h2>
-                                                
+                                            <h2 className="kservice-text-title mb-40" data-animation="fadeInUp" data-delay="0.3s">Conventional Multi-buoys mooring system</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Design, manufacturing and supervision during installation</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Detailed mooring analysis</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">Numerical modelling simulation</h2>
+                                            <h2 className="kslider--subtitle mb-25" data-animation="fadeInUp" data-delay="0.5s">International certification</h2>
+
                                             </div>
                                         </div>
                                     </div>

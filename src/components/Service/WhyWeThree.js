@@ -5,7 +5,7 @@ class WhyWeThree extends Component {
     render() {
 
         return (
-          
+
             <section className="why-we bg-grey pt-100 pb-100 pb-md-100 position-relative">
                 <div className="common-shape-wrapper wow slideInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div className="common-shape-inner wow slideInleft animated" data-wow-delay="0ms" data-wow-duration="1500ms"></div>
@@ -29,27 +29,26 @@ class WhyWeThree extends Component {
                         <div className="col-xl-6 col-lg-6 col-md-12">
                             <div className="provide-content">
                                 <div className="section-title-wrapper mb-25">
-                                    <h2 className="section-title mb-35">Productos <br/></h2>
+                                    <h2 className="section-title mb-35">Products<br/></h2>
                                 </div>
-                                  <b><p>Monoboyas</p></b>
-                                <p>Contamos con la capacidad y experticia para diseñar, fabricar e instalar Monoboyas (Single Point Mooring) tipo torreta,
-                                 tomando en cuenta características particulares de cada proceso de carga y descarga, condiciones ambientales y demás parámetros incidentes.</p>
-                                 <p>Brazos de Carga Marinos</p>
-                               <p>Diseñamos, fabricamos e instalamos Brazos de Carga Marinos tanto convencionales, con medidas entre 10” y 20” (operación completamente hidráulica),
-                               como tipo jumper de 6” y 8” (operación manual).
-                               Ofrecemos servicio posventa especializado de supervisión, inspecciones periódicas y mantenimiento.</p>
+                                  <b><p>Single Point Mooring</p></b>
+                                <p>We have the know-how and capability to design, build and install turret type Monobuoys (Single Point Mooring),
+                                 taking into account the specific characteristics of each loading and unloading process, environmental conditions and other significant parameters.</p>
+                                 <p>Marine Loading Arms</p>
+                               <p>DWe design, build and install both conventional Marine Loading Arms measuring between 10” and 20” (fully hydraulic operation),
+                                and jumper type loading arms measuring between 6” and 8” (manual operation).
+                               We also offer a specialized post-sales service for supervision, periodic inspections and maintenance.</p>
                                <p>PLEM (Pipeline End Manifold)</p>
-                             <p>En Castillomax Oil and Gas, ofrecemos un completo rango de posibilidades en sistemas de tuberías para carga y descarga de productos.
-                             Tenemos capacidad de diseñar, instalar, reemplazar y modernizar PLEM´s de última generación.</p>
-                             <p>Sistemas de Amarre Multiboyas</p>
-                           <p>Castillomax Oil and Gas realiza el diseño, fabricación y supervisión durante la instalación de Sistemas convencionales de amarre. Para ello, cumplimos los estándares internacionales y las buenas prácticas de ingeniería que rigen la materia.
-                           <br/>Además basamos nuestros estudios en la aplicación de los más modernos paquetes de simulación numérica
-                           para asegurar la calidad, funcionamiento y durabilidad de los equipos fabricados.</p>
-                           <p>Tendido de Líneas en Tierra y Submarinas</p>
-                         <p>Somos especialistas en la prestación de servicios de tendido de líneas terrestres y submarinas. Contamos con un equipo multidisciplinario altamente capacitado para la ejecución de proyectos a gran escala.
-                         <br/>Nuestra experiencia comprende desde la planificación, ejecución y arranque de proyectos, haciendo uso de los métodos de instalación convencionales,
-                          S- Lay, J-Lay o Tow-In, adaptándonos siempre a las necesidades y requerimientos del cliente.
-                          <br/>Dentro de las actividades desarrolladas tenemos, fabricación e instalación de risers, tendidos horizontales, instalación de ánodos de sacrificio, realización de ensayos no destructivos, realización de pruebas hidrostáticas, fabricación de spools y desarrollo de revestimientos de concreto según la aplicación requerida.
+                             <p>Castillomax Oil and Gas offers a complete range of pipe system possibilities for the loading and unloading of products.
+                             We have the capability to design, install, replace and modernize with cutting-edge PLEMs.</p>
+                             <br/><p>Multi-buoys Mooring Systems</p>
+                           <p>Castillomax Oil and Gas designs, builds and supervises the installation of Conventional Multi-Buoy Mooring Systems, according to the international standards and best engineering practices.
+                           <br/>Besides, we use the latest numerical modelling simulation software for our studies, to ensure quality, operation and durability of the manufactured equipment.</p>
+                           <p>Onshore and subsea pipe laying</p>
+                         <p>We are specialist in pipe laying service, we have a multidisciplinary and highly-trained team that can execute large-scale projects.
+                         <br/>Our service includes planning, execution and commissioning of projects using conventional, S-Lay or Tow-In installation methods, according to the needs and requirements of our clients.
+                          <br/>Our activities include manufacturing and installation of risers, horizontal pipe laying, sacrificial anode installation, non-destructive tests, hydrostatic tests, spools manufacturing
+                           and development of concrete coating, according to the application.
 </p>
                             </div>
                         </div>

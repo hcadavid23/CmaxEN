@@ -12,7 +12,7 @@ class Service extends Component {
                     <div className="row justify-content-between">
                         <div className="col-xxl-5 col-lg-6">
                             <div className="kservice-text mb-50" data-aos="fade-right" data-aos-duration="1000">
-                                <h2 className="kservice-text-title mb-40">Visita Nuestro Showroom En el Metaverso</h2>
+                                <h2 className="kservice-text-title mb-40">Visit Our Showroom In the Metaverse</h2>
                                 <div className="kservice-author">
                                     <div className="kservice-author-img mr-30">
                                         <img src="assets/img/service/service-author.png" className="img-fluid" alt="author-img"/>
@@ -29,7 +29,7 @@ class Service extends Component {
                     <div className="row">
                         <div className="col-lg-12">
                 <div className="kslider--btn" data-animation="fadeInUp" data-delay="0.7s">
-                    <Link href="https://hub.link/hZVi9RC"><a className="theme-btn">Ingresa Aquí </a></Link>
+                    <Link href="https://hub.link/hZVi9RC"><a className="theme-btn">Click Here</a></Link>
                 </div>
                 </div>
             </div>

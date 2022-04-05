@@ -14,8 +14,8 @@ class Quality extends Component {
                                 <img src="assets/img/icon/service-icon-1a.png" className="img-fluid" alt="about-icon"/>
                             </div>
                             <div className="kquality-text fix">
-                                <h3 className="mb-20 kquality-text-title">Visítanos </h3>
-                                <p>Av. Casanova Torre Sur del Conjunto Inmobiliario Centro Comercial el Recreo Piso 8-5.</p>
+                                <h3 className="mb-20 kquality-text-title">Visit us </h3>
+                                <p> Casanova Avenue Torre Sur del Conjunto Inmobiliario Centro Comercial el Recreo Piso 8-5. Caracas, Bolivarian Republic of Venezuela. </p>
                             </div>
                         </div>
                     </div>

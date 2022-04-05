@@ -16,23 +16,23 @@ class WhyWeTwo extends Component {
                         <div className="choose-left mb-40 mr-xs-0 mr-md-0 mr-lg-0 mr-90" data-aos="fade-up-right" data-aos-duration="1000">
                             <div className="section-title-wrapper">
 
-                                <h2 className="section-title mb-35">Nuestros valores y principios corporativos</h2>
+                                <h2 className="section-title mb-35">Our Corporate Values and Principles </h2>
                             </div>
-                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Efectividad:  </h5> Disponemos de recursos tangibles e intangibles de vanguardia que se complementan para el óptimo funcionamiento y rendimiento de la empresa.
+                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Effectiveness:  </h5> We have state-of-the-art tangible and intangible resources that complement each other for the optimal operation and performance of our company.
                             </p>
-                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Excelencia:</h5>Satisfacemos las expectativas de los clientes, socios y colegas, superando los objetivos propuestos, a través del mejoramiento continuo de nuestros procesos productivos.
+                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Excellency:</h5> We fulfill the expectations of our clients, partners, and colleagues, exceeding the objectives through continuous improvement of our production processes.
                             </p>
-                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Trabajo en equipo:</h5>Creemos que la unión, el esfuerzo y la cooperación de todo nuestro talento humano optimiza el rendimiento individual y grupal.
+                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Team Work:</h5> We believe in union, effort and cooperation of our human resource to optimize individual and group performance.
                             </p>
-                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Pertenencia:</h5>Generamos empatía en los trabajadores, al hacerlos partícipes de cada uno de los procesos de la empresa.
+                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Sense of Belonging:</h5> We generate empathy in our human talent since they participate in each and every one of our company’s processes.
                             </p>
-                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Responsabilidad Social Corporativa:</h5> El enfoque de Responsabilidad Social Corporativa de Castillomax Oil and Gas posee tres grandes ejes de acción:
-                            Atendemos criterios de transparencia en nuestras operaciones: Evaluamos minuciosamente la ejecución de nuestros proyectos, a nuestros aliados comerciales y el alcance de nuestro apoyo a la comunidad.
-                            Protegemos el medio ambiente y hacemos uso responsable de los recursos naturales; por ello, promovemos iniciativas dirigidas a la creación y difusión de tecnologías respetuosas con nuestro entorno.
-                            Por otra parte, impulsamos la integración plena de los individuos a la sociedad a lo interno y a lo externo de la organización, al sumarnos tanto a propuestas de asistencia a la población vulnerable como a las de investigación y educación.
+                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Corporate Social Responsibility:</h5> Castillomax Oil and Gas approach to Corporate Social Responsibility is focused on three main areas:
+                            We ensure transparency in our operations by closely evaluating projects’ execution for our commercial allies, as well as the scope of support to the community.
+                            We protect the environment using natural resources in a responsible way; we support activities aimed at creating and promoting technologies that respect the environment.
+                            We also encourage the full integration of community stakeholders, both in and out of our organization, since we contribute to any assistance plan to vulnerable populations and we implement research and education activities.
                             </p>
-                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Calidad:</h5> Estamos comprometidos con la calidad de los productos y servicios prestados a nuestros clientes, es por esto que todas nuestras soluciones se basan en la aplicación de los Estándares
-                            Internacionales (ASTM, ASME) y las mejores prácticas de ingeniería que rigen la materia (OCIMF).
+                            <p><h5 className="section-subtitle mb-0"><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Quality:</h5> We are committed to the quality of our products and the services we offer our clients; thus, our solutions are based
+                             on International Standards (ASTM, ASME) and the best engineering practices in this matter (OCIMF).
                             </p>
 
                         </div>
