@@ -64,7 +64,7 @@ class Contact extends Component {
                                         <textarea placeholder="Escribe un mensaje" name="massage"></textarea>
                                     </div>
                                     <div className="col-xxl-12 col-xl-12 mb-20">
-                                        <button type="submit" className="theme-btn border-btn">Enviar mensaje</button>
+                                        <button type="submit" className="theme-btn border-btn">Send message</button>
                                     </div>
 
                                 </div>
