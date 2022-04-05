@@ -89,7 +89,7 @@ const Header = () => {
                                        <a className="search-btn nav-search search-trigger" href="#!" onClick={() => {setSearchOpen(!searchOpen)}}><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
                                  </div>
                                  <div className="header-btn">
-                                       <Link href="/about"><a className="theme-btn theme-btn-small">Spanish</a></Link>
+                                       <Link href="https://www.castillomax.com/"><a className="theme-btn theme-btn-small">Spanish</a></Link>
                                  </div>
                               </div>
                            </div>

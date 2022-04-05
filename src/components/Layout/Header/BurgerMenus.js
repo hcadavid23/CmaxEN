@@ -63,25 +63,25 @@ const BurgerMenus = ({setMenuOpen, menuOpen}) => {
             <div className="side-info-content">
                 <div className="mm-menu">
                   <ul>
-                    <li><Link href="/"><a>Inicio</a></Link></li>
-                    <li><Link href="/about"><a>Nosotros</a></Link></li>
+                    <li><Link href="/"><a>Home</a></Link></li>
+                    <li><Link href="/about"><a>About</a></Link></li>
                     <li className={courses ? "has-droupdown active" : "has-droupdown"}>
-                      <a onClick={() => { openMobileMenu('courses'); }}>Productos y Servicios</a>
+                      <a onClick={() => { openMobileMenu('courses'); }}>Products & Services</a>
                       <ul className={courses ? "sub-menu active" : "sub-menu"}>
-                          <li><Link href="/service"><a>Productos</a></Link></li>
-                          <li><Link href="/service-details"><a>Servicios</a></Link></li>
+                          <li><Link href="/service"><a>Products</a></Link></li>
+                          <li><Link href="/service-details"><a>Services</a></Link></li>
                       </ul>
                     </li>
                       <li><Link href="/project"><a>Multimedia</a></Link></li>
 
-                  <li><Link href="/contact"><a>Contactános</a></Link></li>
+                  <li><Link href="/contact"><a>Contact</a></Link></li>
                 </ul>
               </div>
                 <div className="contact-infos mb-30">
                     <div className="contact-list mb-30">
-                        <h4>Información de Contacto</h4>
+                        <h4>Contact Information</h4>
                         <ul>
-                            <li><img src="assets/img/icon/sidebar-icon-1.png" className="img-fluid" alt="icon-img"/>Av. Casanova Torre Sur del Conjunto Inmobililiario CC El Recreo. Caracas, República Bolivariana de Venezuela.</li>
+                            <li><img src="assets/img/icon/sidebar-icon-1.png" className="img-fluid" alt="icon-img"/>ACasanova Avenue Torre Sur del Conjunto Inmobiliario Centro Comercial el Recreo Piso 8-5. Caracas, Bolivarian Republic of Venezuela.</li>
                             <li><img src="assets/img/icon/footer-icon-1.png" className="img-fluid" alt="icon-img"/><a href="mailto:info@castillomax.com">info@castillomax.com</a></li>
                             <li><img src="assets/img/icon/footer-icon-2.png" className="img-fluid" alt="icon-img"/><a href="tel:+582127627214">+58 212 762 7214</a></li>
                         </ul>
