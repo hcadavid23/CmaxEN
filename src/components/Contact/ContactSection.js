@@ -49,19 +49,19 @@ class Contact extends Component {
                             <form action="https://formsubmit.co/61858b2ac59e2516250e585f6f6da624" id="contact-form" method="POST">
                                 <div className="row">
                                     <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                                        <input name="name" type="text" placeholder="Nombre"/>
+                                        <input name="name" type="text" placeholder="Name"/>
                                     </div>
                                     <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                                        <input name="email" type="email" placeholder="Dirección de Correo"/>
+                                        <input name="email" type="email" placeholder="Email"/>
                                     </div>
                                     <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                                        <input name="phone" type="text" placeholder="Teléfono"/>
+                                        <input name="phone" type="text" placeholder="Phone"/>
                                     </div>
                                     <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                                        <input name="subject" type="text" placeholder="Asunto"/>
+                                        <input name="subject" type="text" placeholder="Subject"/>
                                     </div>
                                     <div className="col-xxl-12 col-xl-12 col-lg-12 mb-20">
-                                        <textarea placeholder="Escribe un mensaje" name="massage"></textarea>
+                                        <textarea placeholder="Message" name="massage"></textarea>
                                     </div>
                                     <div className="col-xxl-12 col-xl-12 mb-20">
                                         <button type="submit" className="theme-btn border-btn">Send message</button>
