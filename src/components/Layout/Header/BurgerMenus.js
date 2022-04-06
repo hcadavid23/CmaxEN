@@ -77,6 +77,9 @@ const BurgerMenus = ({setMenuOpen, menuOpen}) => {
                   <li><Link href="/contact"><a>Contact</a></Link></li>
                 </ul>
               </div>
+              <div className="header-btn">
+                    <Link href="https://www.castillomax.com/"><a className="theme-btn theme-btn-small">Spanish</a></Link>
+              </div>
                 <div className="contact-infos mb-30">
                     <div className="contact-list mb-30">
                         <h4>Contact Information</h4>
