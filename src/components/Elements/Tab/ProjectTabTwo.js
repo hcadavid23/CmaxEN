@@ -13,7 +13,7 @@ export default () => (
             <div className="row align-items-center">
                 <div className="col-lg-12">
                     <div className="aportfolio-menu aportfolio-menu2 text-center mb-50">
-                        <h2 class="section-title mb-35">Galería Multimedia </h2>
+                        <h2 class="section-title mb-35">Media Gallery</h2>
                     </div>
                 </div>
             </div>

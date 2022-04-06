@@ -81,7 +81,7 @@ const BurgerMenus = ({setMenuOpen, menuOpen}) => {
                     <div className="contact-list mb-30">
                         <h4>Contact Information</h4>
                         <ul>
-                            <li><img src="assets/img/icon/sidebar-icon-1.png" className="img-fluid" alt="icon-img"/>ACasanova Avenue Torre Sur del Conjunto Inmobiliario Centro Comercial el Recreo Piso 8-5. Caracas, Bolivarian Republic of Venezuela.</li>
+                            <li><img src="assets/img/icon/sidebar-icon-1.png" className="img-fluid" alt="icon-img"/>Av. Casanova Torre Sur del Conjunto Inmobiliario CC El Recreo, Caracas, República Bolivariana de Venezuela.</li>
                             <li><img src="assets/img/icon/footer-icon-1.png" className="img-fluid" alt="icon-img"/><a href="mailto:info@castillomax.com">info@castillomax.com</a></li>
                             <li><img src="assets/img/icon/footer-icon-2.png" className="img-fluid" alt="icon-img"/><a href="tel:+582127627214">+58 212 762 7214</a></li>
                         </ul>

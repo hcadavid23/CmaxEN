@@ -22,10 +22,10 @@ class HomeSlider extends Component {
                             autoplaydisableoninteraction={"false"}
                             loop={true}
                             breakpoints={{
-                                768: {
+                                800: {
                                     slidesPerView: 1
                                 },
-                                1200: {
+                                1500: {
                                     slidesPerView: 1,
                                 }
                             }}
@@ -34,7 +34,7 @@ class HomeSlider extends Component {
                                 el: '.slider-paginations',
                            }}
                            autoplay= {{
-                               delay: 3000,
+                               delay: 7000,
                                disableOnInteraction: true
                            }}
                             pagination={{ clickable: true }}
@@ -44,7 +44,7 @@ class HomeSlider extends Component {
                             onSlideChange={() => console.log('slide change')}
                         >
                         <SwiperSlide>
-                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="10000">
+                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="100000">
                                 <div className="slide-bg" style={{ backgroundImage:`url(${'assets/img/slider/slider-1.jpg'})`}}></div>
                                 <div className="container">
                                     <div className="row">
@@ -68,7 +68,7 @@ class HomeSlider extends Component {
                         </SwiperSlide>
 
                         <SwiperSlide>
-                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="10000">
+                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="100000">
                                 <div className="slide-bg" style={{ backgroundImage:`url(${'assets/img/slider/slider-2.jpg'})`}}></div>
                                 <div className="container">
                                     <div className="row">
@@ -90,7 +90,7 @@ class HomeSlider extends Component {
                         </SwiperSlide>
 
                         <SwiperSlide>
-                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="10000">
+                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="100000">
                                 <div className="slide-bg" style={{ backgroundImage:`url(${'assets/img/slider/slider-3.jpg'})`}}></div>
                                 <div className="container">
                                     <div className="row">
@@ -111,7 +111,7 @@ class HomeSlider extends Component {
                             </div>
                         </SwiperSlide>
                         <SwiperSlide>
-                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="10000">
+                            <div className="single-slider slider-height swiper-slide" data-swiper-autoplay="100000">
                                 <div className="slide-bg" style={{ backgroundImage:`url(${'assets/img/slider/slider-4.jpg'})`}}></div>
                                 <div className="container">
                                     <div className="row">

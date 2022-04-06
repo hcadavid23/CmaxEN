@@ -22,7 +22,7 @@ class Cta extends Component {
                             <p>We have a multidisciplinary group of professionals to assist you.</p>
                         </div>
                         <div className="cta-btn text-lg-end text-start">
-                            <Link href="/service"><a className="theme-btn black-btn">Click Here</a></Link>
+                            <Link href="/contact"><a className="theme-btn black-btn">Click Here</a></Link>
                         </div>
                     </div>
                 </div>

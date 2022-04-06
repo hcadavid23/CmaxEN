@@ -39,7 +39,7 @@ class Contact extends Component {
                                 </div>
                                 <div className="contact-info-text mt-10">
                                     <span>Visit Our Office</span>
-                                    <h5><a href="#">Casanova Avenue Torre Sur del Conjunto Inmobiliario Centro Comercial el Recreo Piso 8-5. Caracas, Bolivarian Republic of Venezuela.</a></h5>
+                                    <h5><a href="#">Av. Casanova Torre Sur del Conjunto Inmobiliario CC El Recreo, Caracas, República Bolivariana de Venezuela.</a></h5>
                                 </div>
                             </div>
                         </div>

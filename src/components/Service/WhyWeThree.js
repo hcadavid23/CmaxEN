@@ -31,20 +31,26 @@ class WhyWeThree extends Component {
                                 <div className="section-title-wrapper mb-25">
                                     <h2 className="section-title mb-35">Products<br/></h2>
                                 </div>
-                                  <b><p>Single Point Mooring</p></b>
+                                <h2 className="section-title mb-10">Single Point Mooring<br/></h2>
+
                                 <p>We have the know-how and capability to design, build and install turret type Monobuoys (Single Point Mooring),
                                  taking into account the specific characteristics of each loading and unloading process, environmental conditions and other significant parameters.</p>
-                                 <p>Marine Loading Arms</p>
-                               <p>DWe design, build and install both conventional Marine Loading Arms measuring between 10” and 20” (fully hydraulic operation),
+                                 <h2 className="section-title mb-10">Marine Loading Arms<br/></h2>
+
+                               <p>We design, build and install both conventional Marine Loading Arms measuring between 10” and 20” (fully hydraulic operation),
                                 and jumper type loading arms measuring between 6” and 8” (manual operation).
                                We also offer a specialized post-sales service for supervision, periodic inspections and maintenance.</p>
-                               <p>PLEM (Pipeline End Manifold)</p>
+                               <h2 className="section-title mb-10">PLEM (Pipeline End Manifold)<br/></h2>
+
                              <p>Castillomax Oil and Gas offers a complete range of pipe system possibilities for the loading and unloading of products.
                              We have the capability to design, install, replace and modernize with cutting-edge PLEMs.</p>
-                             <br/><p>Multi-buoys Mooring Systems</p>
+                             <h2 className="section-title mb-10">Multi-buoys Mooring Systems<br/></h2>
+
                            <p>Castillomax Oil and Gas designs, builds and supervises the installation of Conventional Multi-Buoy Mooring Systems, according to the international standards and best engineering practices.
                            <br/>Besides, we use the latest numerical modelling simulation software for our studies, to ensure quality, operation and durability of the manufactured equipment.</p>
-                           <p>Onshore and subsea pipe laying</p>
+                           <h2 className="section-title mb-10">Onshore and subsea pipe laying<br/></h2>
+                           
+
                          <p>We are specialist in pipe laying service, we have a multidisciplinary and highly-trained team that can execute large-scale projects.
                          <br/>Our service includes planning, execution and commissioning of projects using conventional, S-Lay or Tow-In installation methods, according to the needs and requirements of our clients.
                           <br/>Our activities include manufacturing and installation of risers, horizontal pipe laying, sacrificial anode installation, non-destructive tests, hydrostatic tests, spools manufacturing

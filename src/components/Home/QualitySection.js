@@ -15,7 +15,7 @@ class Quality extends Component {
                             </div>
                             <div className="kquality-text fix">
                                 <h3 className="mb-20 kquality-text-title">Visit us </h3>
-                                <p> Casanova Avenue Torre Sur del Conjunto Inmobiliario Centro Comercial el Recreo Piso 8-5. Caracas, Bolivarian Republic of Venezuela. </p>
+                                <p>Av. Casanova Torre Sur del Conjunto Inmobiliario CC El Recreo, Caracas, República Bolivariana de Venezuela. </p>
                             </div>
                         </div>
                     </div>
