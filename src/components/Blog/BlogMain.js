@@ -31,6 +31,7 @@ class BlogMain extends Component {
                  <br/>Besides, we use the latest numerical modelling simulation software for our studies, to ensure quality, operation and durability of the manufactured equipment.</p>
                  <model-viewer
                  className="model-viewer mb-10"
+                  loading="eager"
                   src="assets/img/3dmodel/bouy textured.glb"
                  ar ar-modes="webxr scene-viewer quick-look"
                  camera-controls environment-image="neutral"

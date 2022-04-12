@@ -27,6 +27,7 @@ class WhyWeThree extends Component {
                             src="assets/img/3dmodel/scene (5).glb"
 
                            camera-controls environment-image="neutral"
+                           loading="eager"
                            poster="assets/img/about/about-img-1.png" shadow-intensity="1">
                            </model-viewer>
 
@@ -38,7 +39,8 @@ class WhyWeThree extends Component {
                              </script>
                              <script type="module" src="./examples/built/docs-and-examples.js">
                              </script>
-
+                             <script type="module" src="node_modules/@google/model-viewer/dist/model-viewer.min.js">
+                               </script>
 
                             </div>
                         </div>

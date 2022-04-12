@@ -24,6 +24,7 @@ class Pricing extends Component {
                        <model-viewer
                        className="model-viewer mb-10"
                         src="assets/img/3dmodel/plem Textured.glb"
+                         loading="eager"
                        ar ar-modes="webxr scene-viewer quick-look"
                        camera-controls environment-image="neutral"
                        poster="assets/img/about/about-img-10x.jpg" shadow-intensity="1">
