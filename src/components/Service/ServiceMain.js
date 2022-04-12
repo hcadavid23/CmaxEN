@@ -29,15 +29,15 @@ class ServiceMain extends Component {
 				{/* whywe-end */}
 
                 {/* service-start */}
-			
+
 				{/* service-end */}
 
                 {/* brand-start */}
-                <BrandFour />
+              
 				{/* brand-end */}
 
                 {/* Quality-start */}
-                <Quality />
+
 				{/* Quality-end */}
         	</main>
         );

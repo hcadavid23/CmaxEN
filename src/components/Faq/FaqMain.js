@@ -20,11 +20,11 @@ class FaqMain extends Component {
 				{/* faq-end */}
 
                 {/* form-start */}
-                <FaqForm />
+                
 				{/* form-end */}
 
                 {/* pricing-start */}
-                <CtaTwo />
+
                 {/* pricing-end */}
         	</main>
         );

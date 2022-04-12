@@ -18,7 +18,7 @@ class PortPagination extends Component {
                                     </a>
                                 </div>
                             </div>
-                                
+
                             <div className="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                                 <div className="portfolio__pagination text-end">
                                     <a href="#" className="link-btn-2">

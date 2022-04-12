@@ -7,170 +7,44 @@ class Pricing extends Component {
     render() {
 
         return (
-            <section className="pricing-area pt-120 pb-90 fix">
-                <div className="container">
-                    <nav className="text-center wow fadeInUp mb-40" data-wow-delay=".4s">
-                        <div className="nav tp-pricing-tabs" id="nav-tab" role="tablist">
-                        <button className="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Monthly</button>
-                        <button className="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</button>
-                        </div>
-                    </nav> 
-                    <div className="tab-content" id="nav-tabContent">
-                        <div className="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                            <div className="row">
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="pricing-wrapper text-center mb-30">
-                                        <div className="pricing-icon mb-25">
-                                            <span><i><FontAwesomeIcon icon={['fas', 'star']} /></i></span>
-                                        </div>
-                                        <div className="pricing-price mb-25">
-                                            <h5 className="pricing-subtitle">Star Plan</h5>
-                                            <h3 className="pricing-title">$25.00</h3>
-                                        </div>
-                                        <div className="pricing-list-bg">
-                                            <div className="pricing-list mb-45">
-                                                <ul>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Extra features</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Lifetime free support</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Upgrate options</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Full access</li>
-                                                </ul>
-                                            </div>
-                                            <div className="pricing-btn">
-                                                <Link href="/contact"><a className="theme-btn">Choose a plan</a></Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="pricing-wrapper text-center mb-30">
-                                        <div className="pricing-icon mb-25">
-                                            <span><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></span>
-                                        </div>
-                                        <div className="pricing-price mb-25">
-                                            <h5 className="pricing-subtitle">Heart plan</h5>
-                                            <h3 className="pricing-title">$35.00</h3>
-                                        </div>
-                                        <div className="pricing-list-bg">
-                                            <div className="pricing-list mb-45">
-                                                <ul>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Extra features</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Lifetime free support</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Upgrate options</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Full access</li>
-                                                </ul>
-                                            </div>
-                                            <div className="pricing-btn">
-                                                <Link href="/contact"><a className="theme-btn">Choose a plan</a></Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="pricing-wrapper text-center mb-30">
-                                        <div className="pricing-icon mb-25">
-                                            <span><i><FontAwesomeIcon icon={['fas', 'gem']} /></i></span>
-                                        </div>
-                                        <div className="pricing-price mb-25">
-                                            <h5 className="pricing-subtitle">Diamond Plan</h5>
-                                            <h3 className="pricing-title">$45.00</h3>
-                                        </div>
-                                        <div className="pricing-list-bg">
-                                            <div className="pricing-list mb-45">
-                                                <ul>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Extra features</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Lifetime free support</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Upgrate options</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Full access</li>
-                                                </ul>
-                                            </div>
-                                            <div className="pricing-btn">
-                                                <Link href="/contact"><a className="theme-btn">Choose a plan</a></Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-                            <div className="row">
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="pricing-wrapper text-center mb-30">
-                                        <div className="pricing-icon mb-25">
-                                            <span><i><FontAwesomeIcon icon={['fas', 'star']} /></i></span>
-                                        </div>
-                                        <div className="pricing-price mb-25">
-                                            <h5 className="pricing-subtitle">Star Plan</h5>
-                                            <h3 className="pricing-title">$45.00</h3>
-                                        </div>
-                                        <div className="pricing-list-bg">
-                                            <div className="pricing-list mb-45">
-                                                <ul>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Extra features</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Lifetime free support</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Upgrate options</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Full access</li>
-                                                </ul>
-                                            </div>
-                                            <div className="pricing-btn">
-                                                <Link href="/contact"><a className="theme-btn">Choose a plan</a></Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="pricing-wrapper text-center mb-30">
-                                        <div className="pricing-icon mb-25">
-                                            <span><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></span>
-                                        </div>
-                                        <div className="pricing-price mb-25">
-                                            <h5 className="pricing-subtitle">Heart plan</h5>
-                                            <h3 className="pricing-title">$65.00</h3>
-                                        </div>
-                                        <div className="pricing-list-bg">
-                                            <div className="pricing-list mb-45">
-                                                <ul>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Extra features</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Lifetime free support</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Upgrate options</li>
-                                                    <li><i className='cross-icon'><FontAwesomeIcon icon={['fas', 'check']} /></i> Full access</li>
-                                                </ul>
-                                            </div>
-                                            <div className="pricing-btn">
-                                                <Link href="/contact"><a className="theme-btn">Choose a plan</a></Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="pricing-wrapper text-center mb-30">
-                                        <div className="pricing-icon mb-25">
-                                            <span><i><FontAwesomeIcon icon={['fas', 'gem']} /></i></span>
-                                        </div>
-                                        <div className="pricing-price mb-25">
-                                            <h5 className="pricing-subtitle">Diamond Plan</h5>
-                                            <h3 className="pricing-title">$85.00</h3>
-                                        </div>
-                                        <div className="pricing-list-bg">
-                                            <div className="pricing-list mb-45">
-                                                <ul>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Extra features</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Lifetime free support</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Upgrate options</li>
-                                                    <li><i><FontAwesomeIcon icon={['fas', 'check']} /></i> Full access</li>
-                                                </ul>
-                                            </div>
-                                            <div className="pricing-btn">
-                                                <Link href="/contact"><a className="theme-btn">Choose a plan</a></Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+          <section className="why-we bg-grey pt-100 pb-100 pb-md-100 position-relative">
+            <div className="common-shape-wrapper wow slideInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms">
+                <div className="common-shape-inner wow slideInleft animated" data-wow-delay="0ms" data-wow-duration="1500ms"></div>
+            </div>
+            <div className="container z-index">
+                <div className="row justify-content-between">
+
+                    <div className="section-title-wrapper">
+                        <div className="provide-content">
+
+
+                       <h2 className="section-title2 mb-10">PLEM (Pipeline End Manifold)<br/></h2>
+                       <p class="mb-45">Castillomax Oil and Gas offers a complete range of pipe system possibilities for the loading and unloading of products.
+                        We have the capability to design, install, replace and modernize with cutting-edge PLEMs.</p>
+                       <model-viewer
+                       className="model-viewer mb-10"
+                        src="assets/img/3dmodel/plem Textured.glb"
+                       ar ar-modes="webxr scene-viewer quick-look"
+                       camera-controls environment-image="neutral"
+                       poster="assets/img/about/about-img-10x.jpg" shadow-intensity="1">
+
+                       </model-viewer>
+                       <script
+                       type="module"
+                       src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+                       ></script>
+                       <script type="module" src="examples/built/dependencies.js">
+                         </script>
+                         <script type="module" src="./examples/built/docs-and-examples.js">
+                         </script>
+
+
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </section>
+
         );
     }
 }

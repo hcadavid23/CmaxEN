@@ -66,12 +66,15 @@ const BurgerMenus = ({setMenuOpen, menuOpen}) => {
                     <li><Link href="/"><a>Home</a></Link></li>
                     <li><Link href="/about"><a>About</a></Link></li>
                     <li className={courses ? "has-droupdown active" : "has-droupdown"}>
-                      <a onClick={() => { openMobileMenu('courses'); }}>Products & Services</a>
+                      <a onClick={() => { openMobileMenu('courses'); }}>Products </a>
                       <ul className={courses ? "sub-menu active" : "sub-menu"}>
-                          <li><Link href="/service"><a>Products</a></Link></li>
-                          <li><Link href="/service-details"><a>Services</a></Link></li>
+                      <li><Link href="/service"><a>Single Point Mooring</a></Link></li>
+                      <li><Link href="/blog"><a>Multi-buoys Mooring Systems</a></Link></li>
+                      <li><Link href="/pricing"><a>PLEM (Pipeline End Manifold)</a></Link></li>
+                      <li><Link href="/faq"><a>Onshore and subsea pipe laying</a></Link></li>
                       </ul>
-                    </li>
+                    </li><li><Link href="/service-details"><a>Services</a></Link></li>
+                    <li><Link href="/service-details"><a>Services</a></Link></li>
                       <li><Link href="/project"><a>Multimedia</a></Link></li>
 
                   <li><Link href="/contact"><a>Contact</a></Link></li>

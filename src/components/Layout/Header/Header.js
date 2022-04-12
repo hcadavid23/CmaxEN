@@ -56,12 +56,15 @@ const Header = () => {
 
                                           </li>
                                           <li><Link href="/about"><a>About Us</a></Link></li>
-                                          <li className="menu-item-has-children"><Link href="/service"><a>Products & Services</a></Link>
+                                          <li className="menu-item-has-children"><Link href="/service"><a>Products </a></Link>
                                              <ul className="sub-menu">
-                                                   <li><Link href="/service"><a>Products</a></Link></li>
-                                                   <li><Link href="/service-details"><a>Services</a></Link></li>
+                                                   <li><Link href="/service"><a>Single Point Mooring</a></Link></li>
+                                                   <li><Link href="/blog"><a>Multi-buoys Mooring Systems</a></Link></li>
+																									 <li><Link href="/pricing"><a>PLEM (Pipeline End Manifold)</a></Link></li>
+                                                   <li><Link href="/faq"><a>Onshore and subsea pipe laying</a></Link></li>
                                              </ul>
                                           </li>
+																					<li><Link href="/service-details"><a>Services</a></Link></li>
                                           <li className="menu-item-has-children"><Link href="/project"><a>Multimedia</a></Link>
 
                                           </li>
@@ -85,7 +88,7 @@ const Header = () => {
                                        <a href="https://www.linkedin.com/company/castillomax-oil-and-gas/" target="_blank"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a>
                                        <a href="https://www.instagram.com/castillomaxoilandgas/?hl=es" target="_blank"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
                                  </div>
-                                
+
                                  <div className="header-btn">
                                        <Link href="https://www.castillomax.com/"><a className="theme-btn theme-btn-small">Spanish</a></Link>
                                  </div>

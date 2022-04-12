@@ -19,7 +19,7 @@ class PricingMain extends Component {
 				{/* pricing-end */}
 
                 {/* pricing-start */}
-                <CtaTwo />
+              
                 {/* pricing-end */}
         	</main>
         );
